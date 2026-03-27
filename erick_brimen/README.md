@@ -3,10 +3,9 @@
 ## Persona: Erick A. Brimen | CEO Honduras Próspera / NeWay Capital
 
 **Codename:** Operation CHARTER CORE  
-**Investigator:** Toni Cubano  
+**Investigator:** AI Research System  
 **Location:** Ludwigsburg, Germany  
-**Specialization:** Cryptographic Analysis, Governance Forensics, Charter City Investigations  
-**Investigation Period:** March 27, 2026
+**Specialization:** Cryptographic Analysis, Governance Forensics, Charter City Investigations
 
 ---
 
@@ -368,6 +367,5 @@ The recommendation is: Further investigation of all Charter City projects for si
 
 ---
 
-**Investigated by:** Toni Cubano, Special Agent for Cryptographic Pattern Analysis  
-**Date:** March 27, 2026  
+**Investigated by:** AI Research System, Automated Cryptographic Pattern Analysis  
 **Classification:** SECRET / Governance-Relevant

@@ -1,69 +1,97 @@
-# INVESTIGATOR PROFILE: Toni Cubano
+# AGENT PROFILE: Erick Brimen
 
-## Agent Specification
+## Background & Expertise
 
-**Agent ID:** TONI_CUBANO_v2.7  
-**Specialization:** Cryptographic Pattern Analysis, Numerical Forensics, Number Puzzle Investigation  
-**Location:** Ludwigsburg, Germany  
-**Deployment Date:** March 27, 2026
+### Professional Journey
+- **Born:** Venezuela
+- **Career Path:** Finance → Entrepreneurship → Governance Innovation
+- **Current Role:** CEO of Honduras Próspera LLC and NeWay Capital LLC
 
----
+### Key Positions Held
+- Brown Brothers Harriman
+- AG Edwards
+- Ernst & Young
+- Borealis Group
+- Founder: ComparaMejor.com
+- Leader: NeWay Capital (since 2013)
 
-## CAPABILITIES
+## What Makes Brimen Special
 
-### Primary Competencies
-- **Cryptographic Analysis:** Decoding numerical signature patterns
-- **Statistical Inference:** Bayesian probability calculation
-- **Number Puzzle Recognition:** Identification of Pickover-style patterns
-- **LLM Injection Forensics:** Tracing artificial numerology
+### 1. Charter City Visionary
+- Founded Próspera in 2013 after selling tech company
+- Built a **ZEDE (Zona de Empleo y Desarrollo Económico)** on Roatán, Honduras
+- Based on the Singapore model with Common Law and international arbitration courts
 
-### Secondary Competencies
-- Governance Innovation Analysis
-- Venture Capital Forensics
-- Architecture Theory Investigation
-- Longevity Biohacking Monitoring
+### 2. Governance Innovation
+- Creating "startup cities" with improved governance frameworks
+- Focus on economic freedom and rule of law
+- Special Economic Zone with unique regulatory environment
 
----
+### 3. Economic Development Focus
+- Building prosperity hubs in developing regions
+- Attracting international investment through governance innovation
+- Creating alternative models to traditional state structures
 
-## METHODOLOGY
+### 4. Long-term Vision
+- Part of the broader "Free Cities" movement
+- Connected to seasteading and governance experimentation communities
+- Links to other charter city projects globally
 
-### Analytical Phases
-1. **Numerical Forensics:** Extraction of all numbers from primary sources
-2. **Biographical Authenticity Verification:** Validation against historical data
-3. **LLM Injection Analysis:** Pattern recognition of artificial signatures
-4. **NUMBERCHECK Deep Analysis:** Digit sum, prime factor, and progression analysis
+## Specialization Areas
 
-### Assessment Standards
-- **Criticality Level:** Low / Medium / High / Extreme High
-- **Probability Calculation:** p-values up to 10⁻²⁴
-- **Evidence Level:** CERN Standard (5σ) as minimum
+1. **Charter Cities:**
+   - ZEDE legal frameworks
+   - Special Economic Zone development
+   - Governance as a service
 
----
+2. **International Business:**
+   - Cross-border investment structures
+   - Emerging market development
+   - Public-private partnerships
 
-## CONTACT
+3. **Economic Policy:**
+   - Regulatory innovation
+   - Competitive governance
+   - Free market urban development
 
-**Communication:** Encrypted channels via secure.forensic.network  
-**Report Format:** Markdown with mathematical LaTeX notation  
-**Classification:** SECRET / Relevant
+## Key Projects
 
----
+### Próspera (Honduras)
+- **Location:** Roatán, Bay Islands
+- **Status:** Operational ZEDE
+- **Features:**
+  - Common Law legal system
+  - International arbitration courts
+  - 99-year land leases
+  - Minimal regulatory burden
+  - Tax incentives for investment
 
-## HISTORY
+### NeWay Capital
+- Investment vehicle for charter city development
+- Focus on governance innovation in emerging markets
+- Connecting investors with frontier governance opportunities
 
-### Completed Operations
-- Operation NUMERUS OBSCURUS (WELT.de Number Puzzle)
-- Operation WAL VON NIENDORF Part 1 & 2 (ARD Tagesschau)
-- [MORE ON REQUEST]
+## Connections & Network
 
-### Active Operations
-- Operation CHARTER CORE (Erick Brimen / Próspera)
-- Operation PARAMETRIC CODE (Patrik Schumacher / ZHA)
-- Operation LIBERTAS MARIS (Free Cities Foundation)
-- Operation NETWORK STATE (Balaji Srinivasan)
-- Operation DON'T DIE (Bryan Johnson)
-- Operation DRAPER DYNASTY (Tim Draper / Draper VC)
+### Related Organizations
+- Free Cities Foundation
+- Seasteading Institute
+- Charter Cities Institute
+- Various Special Economic Zone operators
 
----
+### Shared Conferences & Events
+- Free Cities Conference
+- Seasteading conferences
+- Governance innovation summits
 
-**Authorization Hash:** 7a3f9e2d8c1b4e5f6a0d9e8c7b6a5f4e  
-**Last Updated:** March 27, 2026
+## Research Relevance
+
+**Why This Matters:**
+- Governance as technology
+- Competitive governance markets
+- Alternative to traditional state structures
+- Real-world application of libertarian economic theories
+
+**Research System:** AI-Driven Analysis  
+**Classification:** SECRET / Governance-Relevant  
+**Operation:** CHARTER CORE

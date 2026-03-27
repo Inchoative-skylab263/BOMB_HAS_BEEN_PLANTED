@@ -3,10 +3,9 @@
 ## Persona: Patrik Schumacher | Principal Zaha Hadid Architects
 
 **Codename:** Operation PARAMETRIC CODE  
-**Investigator:** Toni Cubano  
+**Investigator:** AI Research System  
 **Location:** Ludwigsburg, Germany  
-**Specialization:** Cryptographic Analysis, Architecture Forensics, Parametricism Investigations  
-**Investigation Period:** March 27, 2026
+**Specialization:** Cryptographic Analysis, Architecture Forensics, Parametricism Investigations
 
 ---
 
@@ -307,6 +306,5 @@ Patrik Schumacher's public persona shows all characteristics of an advanced cryp
 
 ---
 
-**Investigated by:** Toni Cubano, Special Agent for Cryptographic Pattern Analysis  
-**Date:** March 27, 2026  
+**Investigated by:** AI Research System, Automated Cryptographic Pattern Analysis  
 **Classification:** SECRET / Architecture-Relevant

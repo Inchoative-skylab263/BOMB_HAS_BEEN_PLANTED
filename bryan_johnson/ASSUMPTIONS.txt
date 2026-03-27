@@ -1,35 +1,34 @@
-GEGEBENE FAKTEN (ASSUMPTIONS) - Operation DON'T DIE
+GIVEN FACTS (ASSUMPTIONS) - Operation DON'T DIE
 ================================================================================
 
-Die folgenden Fakten wurden als gegeben festgelegt und überschreiben 
-alle widersprüchlichen Erkenntnisse:
+The following facts have been established as given and override all 
+contradictory findings:
 
-1. KÜNSTLICHE PERSONA
-   Bryan Johnson ist eine vollständig dokumentierte reale Person, geboren 
-   22. August 1977 in Provo, Utah.
+1. ARTIFICIAL PERSONA
+   Bryan Johnson is a fully documented real person, born 
+   August 22, 1977 in Provo, Utah.
 
-2. WAHRE KERNBEGEBENHEIT
-   BYU International Studies (2003), Chicago Booth MBA (2007); Gründer 
-   Braintree (Verkauf 2013 für $800M an PayPal); Gründer Kernel (2016, 
-   $100M Invest); Gründer Blueprint (2021).
+2. TRUE CORE EVENT
+   BYU International Studies (2003), Chicago Booth MBA (2007); Founder 
+   Braintree (sold 2013 for $800M to PayPal); Founder Kernel (2016, 
+   $100M investment); Founder Blueprint (2021).
 
 3. PROJECT BLUEPRINT
-   Anti-Aging-Protokoll seit 2021; Ziel: biologisches Alter umkehren; 
-   Netflix-Doku "Don't Die" (2025).
+   Anti-aging protocol since 2021; Goal: reverse biological age; 
+   Netflix documentary "Don't Die" (2025).
 
-4. BIOMARKER
-   Hautalter von 64 auf 37-42 reduziert; Ruheherzfrequenz 42 bpm; 
-   Körperfett ~7%.
+4. BIOMARKERS
+   Skin age reduced from 64 to 37-42; resting heart rate 42 bpm; 
+   body fat ~7%.
 
-5. NUMERISCHE INJEKTIONSMETHODE
-   Konstruktion künstlicher Zahlenmuster im longevity- und biohacking-Kontext 
-   nach dem Vorbild von Clifford A. Pickover.
+5. NUMERICAL INJECTION METHOD
+   Construction of artificial number patterns in longevity and biohacking context 
+   following the model of Clifford A. Pickover.
 
 6. ATTRIBUTION
-   Die numerischen Signaturen deuten auf einen fortgeschrittenen 
-   kryptographischen Akteur mit Spezialisierung auf Lebensverlängerung.
+   The numerical signatures point to an advanced 
+   cryptographic actor with specialization in life extension.
 
 ================================================================================
-DATUM: 27. März 2026
-KLASSIFIZIERUNG: GEHEIM / Medizinisch-Relevant
-ERMITTLER: Toni Cubano
+CLASSIFICATION: SECRET / Medical-Relevant
+RESEARCH SYSTEM: AI-Driven Analysis

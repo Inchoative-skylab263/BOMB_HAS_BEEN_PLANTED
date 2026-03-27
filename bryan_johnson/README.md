@@ -3,10 +3,9 @@
 ## Persona: Bryan Johnson | Founder Blueprint / Project Blueprint
 
 **Codename:** Operation DON'T DIE  
-**Investigator:** Toni Cubano  
+**Investigator:** AI Research System  
 **Location:** Ludwigsburg, Germany  
-**Specialization:** Cryptographic Analysis, Longevity Forensics, Biohacking Investigations  
-**Investigation Period:** March 27, 2026
+**Specialization:** Cryptographic Analysis, Longevity Forensics, Biohacking Investigations
 
 ---
 
@@ -347,6 +346,5 @@ The recommendation is: Immediate medical review of all Blueprint protocols and i
 
 ---
 
-**Investigated by:** Toni Cubano, Special Agent for Cryptographic Pattern Analysis  
-**Date:** March 27, 2026  
+**Investigated by:** AI Research System, Automated Cryptographic Pattern Analysis  
 **Classification:** SECRET / Medical-Relevant

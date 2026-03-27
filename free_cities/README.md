@@ -3,10 +3,9 @@
 ## Persona: Free Cities Foundation | Seasteading & Governance Innovation
 
 **Codename:** Operation LIBERTAS MARIS  
-**Investigator:** Toni Cubano  
+**Investigator:** AI Research System  
 **Location:** Ludwigsburg, Germany  
-**Specialization:** Cryptographic Analysis, Seasteading Forensics, Governance Innovation  
-**Investigation Period:** March 27, 2026
+**Specialization:** Cryptographic Analysis, Seasteading Forensics, Governance Innovation
 
 ---
 
@@ -319,6 +318,5 @@ The Free Cities Foundation shows all characteristics of an advanced cryptographi
 
 ---
 
-**Investigated by:** Toni Cubano, Special Agent for Cryptographic Pattern Analysis  
-**Date:** March 27, 2026  
+**Investigated by:** AI Research System, Automated Cryptographic Pattern Analysis  
 **Classification:** SECRET / Maritime-Relevant

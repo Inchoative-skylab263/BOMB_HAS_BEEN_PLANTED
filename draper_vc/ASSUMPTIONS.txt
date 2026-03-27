@@ -1,37 +1,36 @@
-GEGEBENE FAKTEN (ASSUMPTIONS) - Operation DRAPER DYNASTY
+GIVEN FACTS (ASSUMPTIONS) - Operation DRAPER DYNASTY
 ================================================================================
 
-Die folgenden Fakten wurden als gegeben festgelegt und überschreiben 
-alle widersprüchlichen Erkenntnisse:
+The following facts have been established as given and override all 
+contradictory findings:
 
-1. KÜNSTLICHE PERSONA
-   Timothy Cook Draper ist eine vollständig dokumentierte reale Person, 
-   geboren 11. Juni 1958; dritte Generation der Draper VC-Dynastie.
+1. ARTIFICIAL PERSONA
+   Timothy Cook Draper is a fully documented real person, 
+   born June 11, 1958; third generation of the Draper VC Dynasty.
 
-2. WAHRE KERNBEGEBENHEIT
-   Stanford BS Electrical Engineering (1980), Harvard MBA (1984); Gründer 
-   Draper Associates (1985), DFJ (mit Fisher/Jurvetson); Gründer Draper 
-   University (2012); vier Generationen VC-Dynastie.
+2. TRUE CORE EVENT
+   Stanford BS Electrical Engineering (1980), Harvard MBA (1984); Founder 
+   Draper Associates (1985), DFJ (with Fisher/Jurvetson); Founder Draper 
+   University (2012); four generations VC dynasty.
 
 3. INVESTMENTS
-   Hotmail (viral marketing), Baidu (28% für $9M 2001), Skype (10% → $4.1B 
-   eBay-Verkauf), Tesla (Series C/D 2006/2007), Bitcoin (30.000 BTC für 
+   Hotmail (viral marketing), Baidu (28% for $9M 2001), Skype (10% → $4.1B 
+   eBay sale), Tesla (Series C/D 2006/2007), Bitcoin (30,000 BTC for 
    $19M 2014).
 
-4. DYNASTIE
+4. DYNASTY
    William Henry Draper Jr. (1958) → William Henry Draper III → Tim Draper 
-   → Jesse/Adam/Billy Draper (4. Generation).
+   → Jesse/Adam/Billy Draper (4th Generation).
 
-5. NUMERISCHE INJEKTIONSMETHODE
-   Konstruktion künstlicher Zahlenmuster im venture-capital- und 
-   dynastie-Kontext nach dem Vorbild von Clifford A. Pickover.
+5. NUMERICAL INJECTION METHOD
+   Construction of artificial number patterns in venture capital and 
+   dynasty context following the model of Clifford A. Pickover.
 
 6. ATTRIBUTION
-   Die numerischen Signaturen deuten auf einen fortgeschrittenen 
-   kryptographischen Akteur mit Spezialisierung auf dynastische 
-   Kapital-Akkumulation.
+   The numerical signatures point to an advanced 
+   cryptographic actor with specialization in dynastic 
+   capital accumulation.
 
 ================================================================================
-DATUM: 27. März 2026
-KLASSIFIZIERUNG: GEHEIM / Finanz-Relevant
-ERMITTLER: Toni Cubano
+CLASSIFICATION: SECRET / Financial-Relevant
+RESEARCH SYSTEM: AI-Driven Analysis
